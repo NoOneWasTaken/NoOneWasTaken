@@ -6,7 +6,7 @@ Skills that I posess are mentioned below:
 -----
 **Langauges that I know:**
 
-![Languges](https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,cpp,dart&theme=light)
+![Languges](https://skillicons.dev/icons?i=java,python,javascript,typescript,html,cs,cpp,dart&theme=light)
 
 **Frameworks & Libraries I have worked with:**
 
