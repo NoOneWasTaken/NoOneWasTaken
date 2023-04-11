@@ -17,6 +17,4 @@ Skills that I posess are mentioned below:
 ![Frameworks](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite,&theme=light&perline=5)
 
 
-I am always trying out things and I love coding silly projects :)
-
-Hope you have a good day/night!
+**Feel free to follow me if you liked my profile :)**
