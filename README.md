@@ -1,6 +1,6 @@
 **Hello Internet :D**
 
-I am No One, I am a 16 year old student from India.
+I am No One, I am a 16 year old student from India, I love coding new projects and exploring new technologies.
 
 Skills that I posess are mentioned below:
 -----
