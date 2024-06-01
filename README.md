@@ -18,6 +18,6 @@ Skills that I posess are mentioned below:
 
 **Cloud Platform/Design Tools:**
 
-![Cloud](https://skillicons.dev/icons?i=aws,gcp,heroku,md,postman,cloudflare,github,figma,xd&theme=light&perline=5)
+![Cloud](https://skillicons.dev/icons?i=aws,postman,cloudflare,github,figma,xd&theme=light&perline=5)
 
 **Feel free to follow me if you liked my profile :)**
