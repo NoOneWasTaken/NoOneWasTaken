@@ -10,7 +10,7 @@ Skills that I posess are mentioned below:
 
 **Frameworks & Libraries I have worked with:**
 
-![Frameworks](https://skillicons.dev/icons?i=nodejs,tensorflow,discord,electron,express,flutter,materialui,nextjs,tauri,angular,react,styledcomponents,sequelize,flutter,tensorflow,redux,twitter&theme=light&perline=5)
+![Frameworks](https://skillicons.dev/icons?i=nodejs,tensorflow,discord,electron,express,flutter,materialui,nextjs,tauri,angular,react,styledcomponents,sequelize,tensorflow,redux,twitter&theme=light&perline=5)
 
 **Database I can use (SQL/NoSQL):**
 
